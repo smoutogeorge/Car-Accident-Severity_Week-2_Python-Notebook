@@ -1,2 +1,4 @@
-# Car-Accident-Severity_Week-2_Python-Notebook
-This repository contains a notebook showing the python codes for the Capstone Project, Car Accident Severity (Week 2).
+# IBM DATA SIENCE Capstone-Project  Week-1 
+# Car-accident-severity Introduction/Business_Problem
+
+Repository 3 contains the section: Python Notebook  of the 2st Week/Capstone Project [Car Accident Severity]
